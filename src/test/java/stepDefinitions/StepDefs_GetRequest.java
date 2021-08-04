@@ -109,6 +109,8 @@ public class StepDefs_GetRequest extends BaseClass{
 		 try {
 			 number = NumberFormat.getCurrencyInstance(locale).parse(salePrice);
 		} catch (ParseException e) {
+			
+			//some change
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
