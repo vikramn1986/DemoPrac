@@ -1,0 +1,3 @@
+stepDefinitions\StepDefs_GetRequest.class
+utils\BaseClass.class
+runner\CucumberTest.class
